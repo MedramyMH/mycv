@@ -1,0 +1,5 @@
+Flask==2.3.2
+dash==2.13.0
+plotly==5.15.0
+dash-bootstrap-components==1.6.0
+dash-font-awesome==1.3.0
